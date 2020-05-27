@@ -2,7 +2,7 @@
 
 #### _HTML exercise for Epicodus, 05/06/2020_
 
-#### By _**{List of contributors}**_
+#### By _**Emma Hellman**_
 
 ## Description
 
